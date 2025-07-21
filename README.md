@@ -3,5 +3,4 @@
 
 ### About
 
-This repo contains code base for docker practice lesson.
-App powered by Spring Boot.
+
